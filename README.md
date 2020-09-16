@@ -2,17 +2,17 @@
 All my Turing links
 
 ### Mod 0
-[Home](https://mod0.turing.io/)<br>
-[Computer Set-up](https://mod0.turing.io/setup-instructions_)
+[**Home**](https://mod0.turing.io/)<br>
+[**Computer Set-up**](https://mod0.turing.io/setup-instructions_)
 <details>
-  <summary><a href="https://turingschool.github.io/mod-0-curriculum/session1"><strong>Session 1</strong></a> - covers the web dev stack, googling, and data types</summary><br>
+  <summary><a href="https://turingschool.github.io/mod-0-curriculum/session1"><strong>Session 1</strong></a> - covers the web dev stack, googling, and data types</summary>
   <li>nature of the stack</li>
   <li>keyboard shortcuts</li>
   <li>intro to classes and attributes</li>
   <li>googling skills</li>
   </ul>
 </details>
-<details><summary><a href="https://turingschool.github.io/mod-0-curriculum/session2"><strong>Session 2</strong></a> - covers terminal and git</summary><br>
+<details><summary><a href="https://turingschool.github.io/mod-0-curriculum/session2"><strong>Session 2</strong></a> - covers terminal and git</summary>
   <ul>
   <li>intro to class methods</li>
   <li>files, directories, paths</li>
