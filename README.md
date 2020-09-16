@@ -4,8 +4,7 @@ All my Turing links
 ### Mod 0
 [**Home**](https://mod0.turing.io/)<br>
 [**Computer Set-up**](https://mod0.turing.io/setup-instructions_)
-<details>
-  <summary><a href="https://turingschool.github.io/mod-0-curriculum/session1"><strong>Session 1</strong></a> - covers the web dev stack, googling, and data types</summary>
+<details><summary><a href="https://turingschool.github.io/mod-0-curriculum/session1"><strong>Session 1</strong></a> - covers the web dev stack, googling, and data types</summary>
   <ul>
   <li>nature of the stack</li>
   <li>keyboard shortcuts</li>
