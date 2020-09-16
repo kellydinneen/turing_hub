@@ -3,16 +3,16 @@ All my Turing links
 
 ### Mod 0
 [Home](https://mod0.turing.io/)<br>
-[Computer Set-up](https://mod0.turing.io/setup-instructions_)<br>
+[Computer Set-up](https://mod0.turing.io/setup-instructions_)
 <details>
-  <summary><a href="https://turingschool.github.io/mod-0-curriculum/session1">Session 1</a> - covers the web dev stack, googling, and data types</summary><br>
+  <summary><a href="https://turingschool.github.io/mod-0-curriculum/session1"><strong>Session 1</strong></a> - covers the web dev stack, googling, and data types</summary><br>
   <li>nature of the stack</li>
   <li>keyboard shortcuts</li>
   <li>intro to classes and attributes</li>
   <li>googling skills</li>
   </ul>
 </details>
-<details><summary><a href="https://turingschool.github.io/mod-0-curriculum/session2">Session 2</a> - covers terminal and git</summary><br>
+<details><summary><a href="https://turingschool.github.io/mod-0-curriculum/session2"><strong>Session 2</strong></a> - covers terminal and git</summary><br>
   <ul>
   <li>intro to class methods</li>
   <li>files, directories, paths</li>
@@ -20,7 +20,7 @@ All my Turing links
   <li>basic git commands</li>
   </ul>
 </details>
-Extra Tips and Things:
+<strong>Extra Tips and Things:</strong>
 
   - [screen management tips](https://www.youtube.com/watch?v=I3PBZBX-Fig&list=PL1Y67f0xPzdMFq2S1bK7E7veT_BbK-zjt&index=2)
 
