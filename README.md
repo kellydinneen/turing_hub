@@ -12,12 +12,19 @@ All my Turing links
   <li>googling skills</li>
   </ul>
 </details>
-<details><summary><a href="https://turingschool.github.io/mod-0-curriculum/session2"><strong>Session 2</strong></a> - covers terminal and git</summary>
+<details><summary><a href="https://turingschool.github.io/mod-0-curriculum/session2"><strong>Session 2</strong></a> - git and github</summary>
   <ul>
   <li>intro to class methods</li>
   <li>files, directories, paths</li>
   <li>basic terminal commands</li>
   <li>basic git commands</li>
+  </ul>
+</details>
+<details><summary><a href="https://turingschool.github.io/mod-0-curriculum/session3"><strong>Session 3</strong></a> - covers terminal and git</summary>
+  <ul>
+  <li>attribute/method review</li>
+  <li>github repositories</li>
+  <li>forking</li>
   </ul>
 </details>
 <strong>Extra Tips and Things:</strong>
