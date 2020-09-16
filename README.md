@@ -29,6 +29,5 @@ All my Turing links
 </details>
 <strong>Extra Tips and Things:</strong>
 
-  - [screen management tips](https://www.youtube.com/watch?v=I3PBZBX-Fig&list=PL1Y67f0xPzdMFq2S1bK7E7veT_BbK-zjt&index=2)
-
+  - [screen management tips](https://www.youtube.com/watch?v=I3PBZBX-Fig&list=PL1Y67f0xPzdMFq2S1bK7E7veT_BbK-zjt&index=2)<br>
   - [terminal mistakes](https://www.loom.com/share/f05362155f5f4e1c959e92c94776e98e)
