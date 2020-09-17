@@ -33,3 +33,24 @@ All my Turing links
   - [terminal mistakes](https://www.loom.com/share/f05362155f5f4e1c959e92c94776e98e)
   - [extra front-end practice](https://github.com/turingschool-examples/fe-m1-practice)
   - [extra back-end practice](https://github.com/turingschool/ruby-exercises)
+________________________
+<br>
+### Supplementary Learning
+
+[**Moonlighting**]() - hub for all of my supplementary learning
+<ul>
+  <details><summary><a href="https://turingschool.github.io/mod-0-curriculum/session2"><strong>reading and research</strong></a></summary>
+    <ul>
+      <li>reading lists</li>
+      <li>reading notes</li>
+      <li><a href="https://plato.stanford.edu/"><em>Stanford Encyclopedia of Philosophy</em></a></li>
+      <li><a href="https://www-oxfordbibliographies-com.colorado.idm.oclc.org/oxford">Oxford Bibliographies</a></li>
+      <li><a href="https://www-oxfordhandbooks-com.colorado.idm.oclc.org/browse">Oxford Hanbooks</a></li>
+
+    </ul>
+  </details>
+</ul>
+
+
+#### Programming Lessons and Curriculums:
+[Codecademy](https://www.codecademy.com/learn)
