@@ -34,9 +34,8 @@ All my Turing links
   - [extra front-end practice](https://github.com/turingschool-examples/fe-m1-practice)
   - [extra back-end practice](https://github.com/turingschool/ruby-exercises)
 ________________________
-<br>
-### Supplementary Learning
 
+### Supplementary Learning
 [**Moonlighting**]() - hub for all of my supplementary learning
 
   <details><summary><a href="https://turingschool.github.io/mod-0-curriculum/session2"><strong>reading and research</strong></a></summary>
@@ -67,5 +66,5 @@ ________________________
   </details>
 
 
-#### Programming Lessons and Curriculums:
+**Programming Lessons and Curriculums:**
 [Codecademy](https://www.codecademy.com/learn)
