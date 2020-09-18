@@ -38,18 +38,33 @@ ________________________
 ### Supplementary Learning
 
 [**Moonlighting**]() - hub for all of my supplementary learning
-<ul>
+
   <details><summary><a href="https://turingschool.github.io/mod-0-curriculum/session2"><strong>reading and research</strong></a></summary>
     <ul>
       <li>reading lists</li>
       <li>reading notes</li>
       <li><a href="https://plato.stanford.edu/"><em>Stanford Encyclopedia of Philosophy</em></a></li>
       <li><a href="https://www-oxfordbibliographies-com.colorado.idm.oclc.org/oxford">Oxford Bibliographies</a></li>
-      <li><a href="https://www-oxfordhandbooks-com.colorado.idm.oclc.org/browse">Oxford Hanbooks</a></li>
-
+      <li><a href="https://www-oxfordhandbooks-com.colorado.idm.oclc.org/browse">Oxford Handbooks</a></li>
+      <li><a href="https://www-oxfordreference-com.colorado.idm.oclc.org/view/10.1093/acref/9780199747108.001.0001">Encyclopedia of Aesthetics</a></li>
     </ul>
   </details>
-</ul>
+
+  <details><summary><strong>art, media, and design inspiration</strong></summary>
+    <ul>
+      <li><a href="http://www.eai.org.colorado.idm.oclc.org/education">eai</a></li>
+      <li><a href="https://www-oxfordartonline-com.colorado.idm.oclc.org/">Oxford Art Online</a></li>
+      <li><a href="http://gate3.cia.edu/cia/index.php">Contemporary Artists Index</a></li>
+      <li><a href="https://archive.org/details/prelinger&tab=collection">Prelinger Archives</a></li>
+      <li><a href="https://www.loc.gov/collections/national-screening-room/">Library of Congress Screening Room</a></li>
+      <li><a href="https://www.europeana.eu/en/collections">Europeana</a></li>
+      <li><a href="https://library-artstor-org.colorado.idm.oclc.org/#/">Artstor</a></li>
+      <li><a href="https://digitalcampus-swankmp-net.colorado.idm.oclc.org/univcoboulder359883">CU Library Film Collection</a></li>
+      <li><a href="https://www.creativebloq.com/">Creative Bloq</a></li>
+      <li><a href="https://www.bloomsburydesignlibrary.com/home">Bloomsbury Design Library</a></li>
+      <li><a href="https://www.dmi.org/">Design Management Institute</a></li>
+    </ul>
+  </details>
 
 
 #### Programming Lessons and Curriculums:
