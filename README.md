@@ -46,6 +46,9 @@ ________________________
       <li><a href="https://www-oxfordbibliographies-com.colorado.idm.oclc.org/oxford">Oxford Bibliographies</a></li>
       <li><a href="https://www-oxfordhandbooks-com.colorado.idm.oclc.org/browse">Oxford Handbooks</a></li>
       <li><a href="https://www-oxfordreference-com.colorado.idm.oclc.org/view/10.1093/acref/9780199747108.001.0001">Encyclopedia of Aesthetics</a></li>
+      <li><a href="https://dl-acm-org.colorado.idm.oclc.org/magazines">ACM</a></li>
+      <li><a href="https://www-statista-com.colorado.idm.oclc.org/">Statista</a></li>
+      <li><a href="https://search-alexanderstreet-com.colorado.idm.oclc.org/">Alexander Street</a></li>
     </ul>
   </details>
 
@@ -68,3 +71,5 @@ ________________________
 
 **Programming Lessons and Curriculums:**
 [Codecademy](https://www.codecademy.com/learn)
+https://javascript.info/
+https://ocw.mit.edu/high-school/humanities-and-social-sciences/godel-escher-bach/index.htm
